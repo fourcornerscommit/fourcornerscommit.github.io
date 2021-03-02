@@ -2,7 +2,7 @@ name: 'Four Corners COMMIT'
 description: 'Communities for Mathematics Inquiry in Teaching Network'
 tagline: 'Four Corners COMMIT'
 url: 'http://fourcornerscommit.github.io'
-baseurl: '/website'
+baseurl: ''
 paginate: 10
 
 markdown: kramdown
@@ -21,7 +21,7 @@ twitter:
 
 # GitHub
 github:
-  repo: github.com/fourcornerscommit/website
+  repo: github.com/fourcornerscommit/fourcornerscommit.github.io
 
 # Feed Stuff
 gems:
