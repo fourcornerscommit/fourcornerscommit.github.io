@@ -3,7 +3,7 @@ layout: default
 title: Four Corners COMMIT
 ---
 
-<img src="{{ site.baseurl }}/images/COMMIT logo_lo res.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px; margin-top: 10px; min-width: 90%" />
+<img src="{{ site.baseurl }}/images/COMMIT logo_lo res.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px; margin-top: 10px" />
 
 <!-- <div class="row">
 <div class="col-md-2 col-lg-2">
