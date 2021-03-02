@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pinyons and Pines
+title: Four Corners COMMIT
 ---
 
-<img src="{{ site.baseurl }}/images/COMMIT logo_lo res.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+<img src="{{ site.baseurl }}/images/COMMIT logo_lo res.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px, margin-top: 10px" />
 
 <!-- <div class="row">
 <div class="col-md-2 col-lg-2">
