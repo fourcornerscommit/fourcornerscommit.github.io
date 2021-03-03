@@ -3,7 +3,7 @@ layout: default
 title: Four Corners COMMIT
 ---
 
-<img src="{{ site.baseurl }}/images/COMMITlogo.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px; margin-top: 10px" />
+<img src="{{ site.baseurl }}/images/COMMITlogo.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px; margin-top: 10px" style="width:100%"/>
 
 <!-- <div class="row">
 <div class="col-md-2 col-lg-2">
@@ -17,7 +17,7 @@ title: Four Corners COMMIT
 </div> -->
 <br>
 
-More information coming soon.
+More information coming soon. Please join the [Four Corners COMMIT Google Group](https://groups.google.com/g/4cornerscommit).
 <!-- <div class="alert alert-info" role="alert">
 <strong>We have reached capacity!  If you are interested in being on a waitlist, please contact me.</strong>
 </div> -->
